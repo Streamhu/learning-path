@@ -12,7 +12,7 @@
 
 <hr>
 
-## 2.java基础
+## 2.javaSE
 
 <hr>
 
@@ -20,10 +20,16 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） servlet相关
 * [Web服务器工作原理概述](http://www.importnew.com/15020.html)<br>
 * [深入理解ServletRequest与ServletResponse](http://lavasoft.blog.51cto.com/62575/275586/)<br>
-* [javaweb学习总结(五)——Servlet开发(一)]( https://www.cnblogs.com/xdp-gacl/p/3760336.html)<br>
+* [javaweb学习总结(五)——Servlet开发(一)](https://www.cnblogs.com/xdp-gacl/p/3760336.html)<br>
 * [javaweb学习总结(六)——Servlet开发(二)](http://www.cnblogs.com/xdp-gacl/p/3763559.html)<br>
 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） session和cookie
+* [javaweb学习总结(十一)——使用Cookie进行会话管理](http://www.cnblogs.com/xdp-gacl/p/3803033.html)<br>
+* [JavaWeb学习总结(十二)——Session](http://www.cnblogs.com/xdp-gacl/p/3855702.html)<br>
+* [Cookie/Session机制详解](https://blog.csdn.net/fangaoxin/article/details/6952954/)<br>
+
 <hr>
+
 ## 4.常用开源框架
 <hr>
 ## 5.操作系统
