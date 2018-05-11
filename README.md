@@ -13,8 +13,16 @@
 <hr>
 
 ## 2.java基础
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） servlet相关
+* [Web服务器工作原理概述](http://www.importnew.com/15020.html)<br>
+* [深入理解ServletRequest与ServletResponse](http://lavasoft.blog.51cto.com/62575/275586/)<br>
+* [javaweb学习总结(五)——Servlet开发(一)]( https://www.cnblogs.com/xdp-gacl/p/3760336.html)<br>
+* [javaweb学习总结(六)——Servlet开发(二)](http://www.cnblogs.com/xdp-gacl/p/3763559.html)<br>
+
 <hr>
+
 ## 3.javaWEB
+
 <hr>
 ## 4.常用开源框架
 <hr>
