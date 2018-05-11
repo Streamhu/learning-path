@@ -79,6 +79,8 @@
 <hr>
 
 ## 13.设计模式
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） 代理模式
+* [Java的三种代理模式](https://www.cnblogs.com/cenyu/p/6289209.html)<br>
 
 <hr>
 
