@@ -23,10 +23,14 @@
 * [javaweb学习总结(五)——Servlet开发(一)](https://www.cnblogs.com/xdp-gacl/p/3760336.html)<br>
 * [javaweb学习总结(六)——Servlet开发(二)](http://www.cnblogs.com/xdp-gacl/p/3763559.html)<br>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） session和cookie
+#### &nbsp;&nbsp;&nbsp;&nbsp; 2 ） session和cookie
 * [javaweb学习总结(十一)——使用Cookie进行会话管理](http://www.cnblogs.com/xdp-gacl/p/3803033.html)<br>
 * [JavaWeb学习总结(十二)——Session](http://www.cnblogs.com/xdp-gacl/p/3855702.html)<br>
 * [Cookie/Session机制详解](https://blog.csdn.net/fangaoxin/article/details/6952954/)<br>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; 3 ） 过滤器和监听器
+* [java----监听器的作用](https://www.cnblogs.com/w-wfy/p/6425357.html)<br>
+* [javaweb学习总结(四十二)——Filter(过滤器)学习](http://www.cnblogs.com/xdp-gacl/p/3948353.html)<br>
 
 <hr>
 
