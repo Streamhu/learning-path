@@ -1,9 +1,11 @@
 ﻿# learning-path
-#### 1.网络
-		##### 1) 互联网协议
-			* [互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
-			* [互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
-			* [正向代理与反向代理【总结】](https://www.cnblogs.com/Anker/p/6056540.html)
+
+#### 1. 网络
+##### 1）互联网协议
+[互联网协议入门（一）](http://www.ruanyifeng.com/blog/2012/05/internet_protocol_suite_part_i.html)
+[互联网协议入门（二）](http://www.ruanyifeng.com/blog/2012/06/internet_protocol_suite_part_ii.html)
+[正向代理与反向代理【总结】](https://www.cnblogs.com/Anker/p/6056540.html)
+
 #### 2.java基础
 #### 3.javaWEB
 4.常用开源框架
