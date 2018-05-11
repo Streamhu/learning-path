@@ -13,6 +13,10 @@
 <hr>
 
 ## 2.javaSE
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） java基础语法
+* [java提高篇(八)----详解内部类](https://www.cnblogs.com/chenssy/p/3388487.html)<br>
+* [java提高篇(十)-----详解匿名内部类 ](http://www.cnblogs.com/chenssy/p/3390871.html)<br>
+
 
 <hr>
 
@@ -35,6 +39,10 @@
 <hr>
 
 ## 4.常用开源框架
+#### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） spring
+* [Spring3：AOP ](http://www.cnblogs.com/xrq730/p/4919025.html)<br>
+* [彻底征服 Spring AOP 之 理论篇](https://segmentfault.com/a/1190000007469968)<br>
+* [彻底征服 Spring AOP 之 实战篇    (可以代码实践)](https://segmentfault.com/a/1190000007469982)<br>
 
 <hr>
 
