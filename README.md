@@ -26,7 +26,7 @@
 * [深入理解ServletRequest与ServletResponse](http://lavasoft.blog.51cto.com/62575/275586/)<br>
 * [javaweb学习总结(五)——Servlet开发(一)](https://www.cnblogs.com/xdp-gacl/p/3760336.html)<br>
 * [javaweb学习总结(六)——Servlet开发(二)](http://www.cnblogs.com/xdp-gacl/p/3763559.html)<br>
-* [【Java.Web】Servlet —— Servlet容器的启动及Servlet创建及初始化，容器默认的Servlet](https://blog.csdn.net/robinjwong/article/details/17699959)<br>
+* [Servlet —— Servlet容器的启动及Servlet创建及初始化，容器默认的Servlet](https://blog.csdn.net/robinjwong/article/details/17699959)<br>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; 2 ） session和cookie
 * [javaweb学习总结(十一)——使用Cookie进行会话管理](http://www.cnblogs.com/xdp-gacl/p/3803033.html)<br>
