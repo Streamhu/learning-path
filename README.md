@@ -17,6 +17,10 @@
 * [java提高篇(八)----详解内部类](https://www.cnblogs.com/chenssy/p/3388487.html)<br>
 * [java提高篇(十)-----详解匿名内部类 ](http://www.cnblogs.com/chenssy/p/3390871.html)<br>
 
+#### &nbsp;&nbsp;&nbsp;&nbsp; 7 ） 泛型
+* [Java总结篇系列：Java泛型](https://www.cnblogs.com/lwbqqyumidi/p/3837629.html)<br>
+* [java 泛型详解-绝对是对泛型方法讲解最详细的，没有之一](https://blog.csdn.net/s10461/article/details/53941091)<br>
+
 
 <hr>
 
