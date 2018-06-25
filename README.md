@@ -45,6 +45,15 @@
 
 ## 4.常用开源框架
 #### &nbsp;&nbsp;&nbsp;&nbsp; 1 ） spring
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. IOC
+* [Spring源码阅读笔记（很全）](http://www.cnblogs.com/notDog/p/5420727.html#undefined)<br>
+* [谈谈对Spring IOC的理解]( https://blog.csdn.net/qq_22654611/article/details/52606960/)<br>
+* [IOC容器初始化过程（共4篇](https://blog.csdn.net/u010723709/article/details/47046211)<br>
+* [IoC容器的依赖注入（1）](https://blog.csdn.net/u010723709/article/details/47183397)<br>
+* [Spring容器初始化过程](https://www.cnblogs.com/luyanliang/p/5567164.html)<br>
+* [Spring Bean的生命周期（非常详细）](https://www.cnblogs.com/zrtqsk/p/3735273.html)<br>
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. IOC
 * [Spring3：AOP ](http://www.cnblogs.com/xrq730/p/4919025.html)<br>
 * [彻底征服 Spring AOP 之 理论篇](https://segmentfault.com/a/1190000007469968)<br>
 * [彻底征服 Spring AOP 之 实战篇    (可以代码实践)](https://segmentfault.com/a/1190000007469982)<br>
