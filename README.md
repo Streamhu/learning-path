@@ -53,7 +53,7 @@
 * [Spring容器初始化过程](https://www.cnblogs.com/luyanliang/p/5567164.html)<br>
 * [Spring Bean的生命周期（非常详细）](https://www.cnblogs.com/zrtqsk/p/3735273.html)<br>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. IOC
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b. AOP
 * [Spring3：AOP ](http://www.cnblogs.com/xrq730/p/4919025.html)<br>
 * [彻底征服 Spring AOP 之 理论篇](https://segmentfault.com/a/1190000007469968)<br>
 * [彻底征服 Spring AOP 之 实战篇    (可以代码实践)](https://segmentfault.com/a/1190000007469982)<br>
